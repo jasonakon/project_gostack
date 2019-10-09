@@ -1,0 +1,42 @@
+{
+    "meta": {
+        "code": 200,
+        "requestId": "5d9deeaa86bc49002c68fcef"
+    },
+    "response": {
+        "tips": {
+            "count": 180,
+            "items": [
+                {
+                    "id": "5d8b67c136a6ba0006a5ab4a",
+                    "createdAt": 1569417153,
+                    "text": "Just average local hawker foods.",
+                    "type": "user",
+                    "canonicalUrl": "https://foursquare.com/item/5d8b67c136a6ba0006a5ab4a",
+                    "lang": "en",
+                    "likes": {
+                        "count": 0,
+                        "groups": []
+                    },
+                    "logView": true,
+                    "agreeCount": 0,
+                    "disagreeCount": 0,
+                    "todo": {
+                        "count": 0
+                    },
+                    "user": {
+                        "id": "48031869",
+                        "firstName": "Kaye",
+                        "lastName": "Lim",
+                        "gender": "male",
+                        "photo": {
+                            "prefix": "https://fastly.4sqi.net/img/user/",
+                            "suffix": "/48031869_x8sN32Tg_Fe_5k-LIAOuthE24O2jhcmoLhiFw001EHLVK_7U2f5ows7RbOIz4GpnSZSM04c4H.jpg"
+                        }
+                    },
+                    "authorInteractionType": "meh"
+                }
+            ]
+        }
+    }
+}
