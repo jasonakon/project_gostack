@@ -1,2 +1,8 @@
-# project_gengar
-First in-house open source web app development with co-partners
+# Project Gengar (Reborn)
+## Introduction:
+First in-house open source web app development with co-partners.
+## Stack Used:
+- ReactJs
+- Golang
+- Docker
+- Heroku
