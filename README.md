@@ -1,6 +1,6 @@
 # Project GoStack
 ## Introduction:
-First in-house open source web app development with co-partners.
+This project simplifies the integration of ReactJS as front end with GO as backend. Since many frameworks have been summon recently and its still hard to find a complete examples of how these integrations are being made.
 ## Stack Used:
 - ReactJs
 - Golang
