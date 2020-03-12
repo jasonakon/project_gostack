@@ -14,14 +14,14 @@ Simple dummy Web API, with in-memory data.
 [Postman API](https://www.postman.com/) 
 Proceed run some API testing with link below  
    * ```localhost:8080/api/persons``` without body payload
-   * ```localhost:8080/api/addpersons``` with body payload   
+   * ```localhost:8080/api/addpersons``` with body payload and method 'PUT'   
       ```
       {
          "id": "1",
          "name": "qkk"
       }   
       ```
-   * ```localhost:8080/api/deletepersons``` with body payload
+   * ```localhost:8080/api/deletepersons``` with body payload and method 'DELETE' 
       ```
       {
          "id": "1",
