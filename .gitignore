@@ -1,1 +1,16 @@
 learn_express.txt
+
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+*.test
+
+*.out
+
+**/github.com/*
+**/bin/*
+**/pkg/*
+.vscode
