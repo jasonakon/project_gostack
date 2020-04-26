@@ -18,6 +18,12 @@ export default {
     main: colors.blue['A400'],
     light: colors.blue['A400']
   },
+  button: {
+    contrastText: colors.blue[600],
+    dark: colors.orange[900],
+    main: colors.orange[600],
+    light: colors.orange[400]
+  },
   success: {
     contrastText: white,
     dark: colors.green[900],
