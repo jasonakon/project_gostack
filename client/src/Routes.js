@@ -7,7 +7,9 @@ import { Main as MainLayout, Minimal as MinimalLayout } from './layouts';
 import {
   Dashboard as DashboardView,
   ProductList as ProductListView,
-  NotFound as NotFoundView
+  NotFound as NotFoundView,
+  SignIn as SignIn,
+  SignUp as SignUp
 } from './views';
 
 const Routes = () => {
@@ -36,6 +38,18 @@ const Routes = () => {
         layout={MinimalLayout}
         path="/not-found"
       />
+      <RouteWithLayout
+        component={SignIn}
+        exact
+        layout={MinimalLayout}
+        path="/signin"
+      />
+      <RouteWithLayout
+        component={SignUp}
+        exact
+        layout={MinimalLayout}
+        path="/signup"
+        />
       <Redirect to="/not-found" />
     </Switch>
   );

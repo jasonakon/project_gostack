@@ -63,8 +63,14 @@ export default {
     lineHeight: '21px'
   },
   body2: {
-    color: palette.text.secondary,
+    color: palette.text.primary,
     fontSize: '12px',
+    letterSpacing: '-0.04px',
+    lineHeight: '18px'
+  },
+  body3: {
+    color: palette.text.black,
+    fontSize: '20px',
     letterSpacing: '-0.04px',
     lineHeight: '18px'
   },

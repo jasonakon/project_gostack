@@ -1,1 +1,7 @@
 learn_express.txt
+client/public/index_firebase.html
+client/public/images/gostack_icon1.ai
+client/public/images/gostack_icon1.svg
+client/src/components/Firebase_backup/context.js
+client/src/components/Firebase_backup/firebase.js
+client/src/components/Firebase_backup/index.js
