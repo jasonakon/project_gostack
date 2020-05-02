@@ -5,7 +5,7 @@ This project simplifies the integration of ReactJS as front end with GO as backe
 - ReactJs
 - Golang
 - Docker
-- Heroku
+- Firebase
 ## Installation:
 ### ReactJS (Front End)
 1. Clone the repository:
